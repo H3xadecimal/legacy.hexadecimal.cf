@@ -77,10 +77,11 @@ nav {
 	background-color: #3f51b5;
 	box-shadow: none;
 	height: 192px;
+	line-height: 192px;
 }
 
 .nav-div {
-	height: 64px;
+	height: 192px;
 }
 
 .nav-btn {
