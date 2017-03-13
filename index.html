@@ -21,9 +21,7 @@
 		
 		<main>
 			<nav class="hide-on-small-only">
-				<div class="nav-div"></div>
-				<div class="nav-div"><span class="nav-logo">Hexadecimal's Projects</span></div>
-				<div class="nav-div"></div>
+				<div class="nav-div" id="particles-js"><span class="nav-logo">Hexadecimal's Projects</span></div>
 			</nav>
 
 			<nav class="hide-on-med-and-up" style="height: 64px; padding-left: 0;">
@@ -146,9 +144,13 @@
 		</footer>
 		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>
+		<script type="text/javascript" src="js/particles.min.js"></script>
 		<script type="text/javascript">
 			$(function() {
 				$('.button-collapse').sideNav();
+				particlesJS.load('particles-js', 'js/particles-js.json', function() {
+					console.log('Loaded particles.js config.');
+				});
 			});
 		</script>
 	</body>
