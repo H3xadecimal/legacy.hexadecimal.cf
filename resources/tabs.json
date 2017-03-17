@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Hound",
+        "title": "",
+        "description": "",
+        "cards": [
+            {
+                "title": "Hound",
+                "body": ["A multi-purpose Discord bot that actually listens to you and is easy to use... mostly.. well, we hope it is."],
+                "image": {"src": "images/Hound.jpg", "alt": "Hound logo"},
+                "button": {"text": "Get Hound Now", "url": "https://goo.gl/GB9BRn"}
+            },
+            {
+                "title": "Features",
+                "body": [
+                    "<b>Music Player!</b><br>Find and play any track from YouTube or SoundCloud directly in Discord. You don't even need a link, you can just search the songs name. You can also save playlists for later use.",
+                    "<b>Moderation Tools</b><br>Ban, kick and punish misbehaving users by simply running a command and mentioning the user.",
+                    "<b>AND MORE</b><br>Cleverbot, memes, etc."
+                ],
+                "button": {"text": "Documentation Coming Soon&#8482;", "url": "#"}
+            },
+            {
+                "title": "Hosting",
+                "body": ["Hound is hosted by our one and only CalebJ, without him Hound will not be up for use today. He also spends his time coding and contributing to projects that he likes all for free, A giant thanks to him for hosting Hound."],
+                "button": {"text": "Support Him Here", "url": "https://patreon.com/calebj"}
+            },
+            {
+                "title": "Source",
+                "body": ["Hound is built on Red-DiscordBot created originally by Twentysix using the discord.py library, and is utilising modules created by the community. A huge thanks to Twentysix for making the source public and also to the community for making these awesome modules."],
+                "button": {"text": "Check Out The Source", "url": "https://twentysix26.github.io/Red-Docs/"}
+            }
+        ]
+    },
+
+    {
+        "name": "Xeili",
+        "title": "Hm... This seems empty...",
+        "description": "This section is incomplete."
+    },
+
+    {
+        "name": "Liara",
+        "title": "Man, it sure is empty in here...",
+        "description": "This section is incomplete."
+    },
+
+    {
+        "name": "Orion",
+        "title": "Orion",
+        "description": "Orion is a work-in-progress project. More details about it will be revealed later on.\n\nGod damn Ovy, how long do you take?\n\nForever."
+    },
+
+    {
+        "name": "Wall of Fame",
+        "title": "Wall of Fame",
+        "description": "Special thanks to...",
+        "cards": [
+            {
+                "title": "Pandentia",
+                "body": ["Helped Hexadecimal learn coding, assisted in the development of Hound and The Xeili Project."]
+            },
+            {
+                "title": "CalebJ",
+                "body": ["Hosts and helps develop Hound by contributing code and patches."]
+            },
+            {
+                "title": "Ovyerus",
+                "body": ["Built this website and helps with Hound and JS related stuff."]
+            },
+            {
+                "title": "Martmists and NerdieTony",
+                "body": ["Contributed to The Xeili Project."]
+            }
+        ]
+    }
+]

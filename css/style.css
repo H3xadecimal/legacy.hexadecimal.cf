@@ -35,8 +35,8 @@ main {
 	font-weight: 500;
 }
 
-.page-footer {
-	background-color: #3F51B5 !important;
+footer.page-footer {
+	padding-top: 0;
 }
 
 .footer-copyright {
