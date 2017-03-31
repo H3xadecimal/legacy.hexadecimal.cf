@@ -8,7 +8,7 @@
                 "title": "Hound",
                 "body": ["A multi-purpose Discord bot that actually listens to you and is easy to use... mostly.. well, we hope it is."],
                 "image": {"src": "images/Hound.jpg", "alt": "Hound logo"},
-                "button": {"text": "Get Hound Now", "url": "https://goo.gl/GB9BRn"}
+                "button": {"text": "Get Hound Now", "url": "./hound"}
             },
             {
                 "title": "Features",
