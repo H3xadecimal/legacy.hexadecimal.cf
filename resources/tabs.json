@@ -1,3 +1,4 @@
+
 [
     {
         "name": "Hound",
@@ -57,7 +58,7 @@
         "cards": [
             {
                 "title": "Pandentia",
-                "body": ["Helped Hexadecimal learn coding, assisted in the development of Hound and The Xeili Project."]
+                "body": ["Helped Hexadecimal learn coding, assisted in the development of Hound and the Xeili Project."]
             },
             {
                 "title": "CalebJ",
@@ -68,8 +69,8 @@
                 "body": ["Built this website and helps with Hound and JS related stuff."]
             },
             {
-                "title": "Martmists and NerdieTony",
-                "body": ["Contributed to The Xeili Project."]
+                "title": "Martmists, NerdieTony and fn230",
+                "body": ["Contributed to the Xeili Project."]
             },
             {
                 "title": "AlexFlipnote",
